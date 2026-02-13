@@ -10,10 +10,13 @@ This is a simple Hangman game made in python. The player has to guess the hidden
 ## Features
 . Random word selection
 . Limited number of attempts
-. Shows gussed letters
+. User gussed letters
 . Simple command-line interface
 
 ## How to Run
-1. Install python
-2. open terminal / command prompt
+1. Make sure python is Install 
+2. open terminal / command promptnin this folder 
 3. run: python hangman.py
+
+## Author
+Nisha Yadav
